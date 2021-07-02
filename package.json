@@ -1,0 +1,24 @@
+{
+  "name": "avaliacao",
+  "version": "1.0.0",
+  "description": "Avaliação do módulo de NodeJS na Let´s Code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crashbr/avaliacao_node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crashbr/avaliacao_node/issues"
+  },
+  "homepage": "https://github.com/crashbr/avaliacao_node#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0"
+  }
+}
