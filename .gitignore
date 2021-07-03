@@ -102,3 +102,8 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Executaveis locais
+chromedriver.exe
+src/images/*
+package-lock.json
